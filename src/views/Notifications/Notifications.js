@@ -126,21 +126,15 @@ export default function Notifications() {
         <h4 className={classes.cardTitleWhite}>Notifications</h4>
         <p className={classes.cardCategoryWhite}>
           Handcrafted by our friends from{" "}
-          <a
-            target="_blank"
-            href="https://material-ui-next.com/?ref=creativetime"
-          >
-            Material UI
+          <a>
+            Advetfly
           </a>{" "}
           and styled by{" "}
-          <a
-            target="_blank"
-            href="https://www.creative-tim.com/?ref=mdr-notifications-page"
-          >
-            Creative Tim
+          <a>
+            Advetfly impex
           </a>
           . Please checkout the{" "}
-          <a href="#pablo" target="_blank">
+          <a>
             full documentation
           </a>
           .
@@ -235,7 +229,7 @@ export default function Notifications() {
                   place="tl"
                   color="info"
                   icon={AddAlert}
-                  message="Welcome to MATERIAL DASHBOARD React - a beautiful freebie for every web developer."
+                  message="Welcome to Advetfly impex React - a beautiful freebie for every web developer."
                   open={tl}
                   closeNotification={() => setTL(false)}
                   close
@@ -253,7 +247,7 @@ export default function Notifications() {
                   place="tc"
                   color="info"
                   icon={AddAlert}
-                  message="Welcome to MATERIAL DASHBOARD React - a beautiful freebie for every web developer."
+                  message="Welcome to Advetfly impex React - a beautiful freebie for every web developer."
                   open={tc}
                   closeNotification={() => setTC(false)}
                   close
@@ -271,7 +265,7 @@ export default function Notifications() {
                   place="tr"
                   color="info"
                   icon={AddAlert}
-                  message="Welcome to MATERIAL DASHBOARD React - a beautiful freebie for every web developer."
+                  message="Welcome to Advetfly impex React - a beautiful freebie for every web developer."
                   open={tr}
                   closeNotification={() => setTR(false)}
                   close
@@ -295,7 +289,7 @@ export default function Notifications() {
                   place="bl"
                   color="info"
                   icon={AddAlert}
-                  message="Welcome to MATERIAL DASHBOARD React - a beautiful freebie for every web developer."
+                  message="Welcome to Advetfly impex React - a beautiful freebie for every web developer."
                   open={bl}
                   closeNotification={() => setBL(false)}
                   close
@@ -313,7 +307,7 @@ export default function Notifications() {
                   place="bc"
                   color="info"
                   icon={AddAlert}
-                  message="Welcome to MATERIAL DASHBOARD React - a beautiful freebie for every web developer."
+                  message="Welcome to Advetfly impex React - a beautiful freebie for every web developer."
                   open={bc}
                   closeNotification={() => setBC(false)}
                   close
@@ -331,7 +325,7 @@ export default function Notifications() {
                   place="br"
                   color="info"
                   icon={AddAlert}
-                  message="Welcome to MATERIAL DASHBOARD React - a beautiful freebie for every web developer."
+                  message="Welcome to Advetfly impex React - a beautiful freebie for every web developer."
                   open={br}
                   closeNotification={() => setBR(false)}
                   close

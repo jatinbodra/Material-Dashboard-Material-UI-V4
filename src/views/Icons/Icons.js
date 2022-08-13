@@ -25,7 +25,6 @@ export default function Icons() {
             <p className={classes.cardCategoryWhite}>
               Handcrafted by our friends from{" "}
               <a
-                href="https://design.google.com/icons/?ref=creativetime"
                 target="_blank"
               >
                 Google
@@ -49,7 +48,6 @@ export default function Icons() {
                   the iframe is not working on Mobile and Tablets please visit
                   the icons on their original page on Google. Check the
                   <a
-                    href="https://design.google.com/icons/?ref=creativetime"
                     target="_blank"
                   >
                     Material Icons

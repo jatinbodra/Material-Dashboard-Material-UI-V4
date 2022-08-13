@@ -91,11 +91,11 @@ export default function UpgradeToPro() {
         <Card>
           <CardHeader color="info">
             <h4 className={classes.cardTitleWhite}>
-              Material Dashboard PRO React
+              Advetfly Dashboard PRO React
             </h4>
             <p className={classes.cardCategoryWhite}>
               Are you looking for more components? Please check our Premium
-              Version of Material Dashboard Angular.
+              Version of Advetfly impex Angular.
             </p>
           </CardHeader>
           <CardBody>
@@ -195,7 +195,7 @@ export default function UpgradeToPro() {
                       <Button
                         round
                         color="danger"
-                        href="https://www.creative-tim.com/product/material-dashboard-pro-react?ref=mdr-upgrade-live"
+                        href="https://www.advetfly.com/"
                       >
                         Upgrade to Pro
                       </Button>
